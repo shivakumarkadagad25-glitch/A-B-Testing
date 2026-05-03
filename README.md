@@ -46,11 +46,31 @@ The dataset contains user-level experiment data:
 
 ## 🔍 Steps Performed
 
-### 1. Data Cleaning
+### 1. Explaination
 
-* Handled missing values
-* Checked duplicates
-* Ensured correct data types
+A/B Testing — Real Life Story First
+Forget code for 2 minutes. Understand the concept with this story.
+
+The Story — Swiggy's New Offer
+Swiggy's product team says:
+
+"We think giving a 20% discount popup will increase orders. But we're not sure. Let's test it."
+
+So they split their users into 2 groups:
+GroupWhat They SeeSizeControlNormal app — no popup5,000 usersTreatment20% discount popup5,000 users
+After 2 weeks they check:
+
+Control group placed 2,100 orders → 42% conversion
+Treatment group placed 2,600 orders → 52% conversion
+
+Question: Is the 10% difference REAL — or just lucky randomness?
+That's exactly what A/B testing answers.
+
+The 3 Questions A/B Testing Answers
+
+Did it work? — Is treatment better than control?
+Is it real? — Or did it happen by chance? (p-value)
+How confident are we? — Confidence interval
 
 ---
 

@@ -60,11 +60,15 @@ Swiggy's product team says:
 
 
 So they split their users into 2 groups:
-GroupWhat They SeeSizeControlNormal app — no popup5,000 usersTreatment20% discount popup5,000 users
+control Normal app — no popup 5,000 users
+
+Treatment20% discount popup5,000 users
+
 After 2 weeks they check:
 
 
 Control group placed 2,100 orders → 42% conversion
+
 Treatment group placed 2,600 orders → 52% conversion
 
 
